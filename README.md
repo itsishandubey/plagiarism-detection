@@ -1,2 +1,2 @@
 # plagiarism-detection
-Plagiarism Detection: Udacity - Machine Learning Engineer Nanodegree Program
+This project is a part of Udacity - Machine Learning Engineer Nanodegree Program
